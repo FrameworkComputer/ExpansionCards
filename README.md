@@ -1,5 +1,6 @@
 # Expansion Cards
 Reference designs and documentation to create Expansion Cards for the Framework Laptop.
+![image](https://user-images.githubusercontent.com/28994301/118569795-7e956d00-b72f-11eb-9aea-85127a15304a.png)
 
 ## License
 
