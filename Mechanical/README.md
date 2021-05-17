@@ -20,3 +20,15 @@ There are a few variants of mechanical CAD that we have released:
  - Retrofit - This is a 2D drawing for a PCB that can be retrofit into existing
    Expansion Card cards sold by Framework.
    ![image](https://user-images.githubusercontent.com/28994301/118569521-f2834580-b72e-11eb-819e-f6a40577f389.png)
+
+## Getting Expansion Card Enclosures Fabricated
+
+We've designed the enclosures to be printable on home 3D printers using PLA filament.
+
+If you don't have a 3D printer, it's also easy to order enclosures from the various
+printing services that are out there.  Because Expansion Cards are tiny, it is 
+extremely inexpensive to get cards printed.  We haven't used all of the services below,
+but these are some of the popular ones:
+ - Shapeways (https://www.shapeways.com/) - HP MJF material
+ - Hubs (https://www.hubs.com/) - HP MJF material (has a minimum order quantity)
+ - Treatstock (https://www.treatstock.com/) - Range of materials, including PLA
