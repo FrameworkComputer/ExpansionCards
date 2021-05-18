@@ -13,6 +13,8 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
  - Microcontroller - A reference project using a SAMD21 Microcontroller with some pin
    headers broken out.  **Note:** We've built and done basic validation on an older version
    of this design, but the version currently in this repository is untested.
+   ![image](https://user-images.githubusercontent.com/28994301/118582864-f2903f00-b748-11eb-9ee0-a20ade45479a.png)
+
    
 ## Assembly
 
