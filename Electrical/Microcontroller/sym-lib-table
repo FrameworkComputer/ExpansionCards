@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name gd25q16ct)(type Legacy)(uri ${KIPRJMOD}/gd25q16ct.lib)(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GD25Q16CT
+D 16Mbit, 3.3V Dual and Dual Quad Serial Flash, SOP-8
+K SPI DSPI QSPI 16Mbit 3.3V
+F http://www.elm-tech.com/en/products/spi-flash-memory/gd25q16/gd25q16.pdf
+$ENDCMP
+#
+#End Doc Library
