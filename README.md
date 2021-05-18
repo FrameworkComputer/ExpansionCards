@@ -6,7 +6,7 @@ Expansion Cards, but there is an entire world of other interesting ways to exten
 capabilities of a notebook.  We're releasing CAD to make it easy for you to develop your
 own Expansion Cards.
 
-** Beta Release ** Note that these are early design releases, so you should build and test
+**Beta Release** Note that these are early design releases, so you should build and test
 development versions before committing a design based on this CAD to mass production.
 ![image](https://user-images.githubusercontent.com/28994301/118569795-7e956d00-b72f-11eb-9aea-85127a15304a.png)
 
