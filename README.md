@@ -8,7 +8,9 @@ own Expansion Cards.
 
 **Beta Release:** Note that these are early design releases, so you should build and test
 development versions before committing a design based on this CAD to mass production.
-![image](https://user-images.githubusercontent.com/28994301/118569795-7e956d00-b72f-11eb-9aea-85127a15304a.png)
+
+![Press Assets - img12](https://user-images.githubusercontent.com/28994301/118583836-8ca4b700-b74a-11eb-88cc-005e0392a3e5.gif)
+
 
 ## License
 
