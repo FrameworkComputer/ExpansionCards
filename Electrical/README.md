@@ -16,5 +16,21 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
    ![image](https://user-images.githubusercontent.com/28994301/118582864-f2903f00-b748-11eb-9ee0-a20ade45479a.png)
 
    
-## Assembly
+## Fabrication and Assembly
 
+The templates and reference designs currently in this repository are basic, 2-layer, USB 2.0 designs.
+This means the requirements around fabrication and assembly are pretty minimal.  Most PCB makers
+and assemblers will be able to handle this.  We've listed a few popular ones below for reference.
+Note that these are not necessarily vetted by Framework.
+
+Note that there are pads next to the USB-C plug for manual soldering for additional strength.
+You'll have to specify that to your assembler or hand solder that yourself.
+
+PCB Only
+ - OSHPark (https://oshpark.com/)
+
+PCB+Assembly
+ - Seeed (https://www.seeedstudio.com/fusion_pcb.html)
+ - PCBWay (https://www.pcbway.com/pcb-assembly.html)
+ - Macrofab (https://macrofab.com/)
+ - Circuithub (https://circuithub.com/)
