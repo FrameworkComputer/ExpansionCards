@@ -225,4 +225,74 @@ F 3 "https://www.diodes.com/assets/Datasheets/AP2112.pdf" H 4150 2250 50  0001 C
 $EndComp
 Wire Wire Line
 	2250 1500 2900 1500
+Wire Wire Line
+	9200 900  9200 1150
+Connection ~ 9200 1150
+$Comp
+L power:GND #PWR0101
+U 1 1 606A9B9C
+P 9200 1150
+F 0 "#PWR0101" H 9200 900 50  0001 C CNN
+F 1 "GND" H 9205 977 50  0000 C CNN
+F 2 "" H 9200 1150 50  0001 C CNN
+F 3 "" H 9200 1150 50  0001 C CNN
+	1    9200 1150
+	1    0    0    -1  
+$EndComp
+Text Notes 9350 1450 0    100  ~ 0
+Mechanical mounting
+Wire Wire Line
+	9400 1150 9200 1150
+Wire Wire Line
+	9850 1150 9400 1150
+Connection ~ 9400 1150
+Wire Wire Line
+	9400 900  9200 900 
+Wire Wire Line
+	9850 900  9400 900 
+Connection ~ 9400 900 
+$Comp
+L Connector:TestPoint TP4
+U 1 1 606A8E98
+P 9850 1150
+F 0 "TP4" H 9908 1268 50  0000 L CNN
+F 1 "TestPoint" H 9908 1177 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.5x1.5mm" H 10050 1150 50  0001 C CNN
+F 3 "~" H 10050 1150 50  0001 C CNN
+	1    9850 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP3
+U 1 1 606A8C9B
+P 9400 1150
+F 0 "TP3" H 9458 1268 50  0000 L CNN
+F 1 "TestPoint" H 9458 1177 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.5x1.5mm" H 9600 1150 50  0001 C CNN
+F 3 "~" H 9600 1150 50  0001 C CNN
+	1    9400 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP2
+U 1 1 606A78C1
+P 9850 900
+F 0 "TP2" H 9908 1018 50  0000 L CNN
+F 1 "TestPoint" H 9908 927 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.5x1.5mm" H 10050 900 50  0001 C CNN
+F 3 "~" H 10050 900 50  0001 C CNN
+	1    9850 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP1
+U 1 1 606A89A3
+P 9400 900
+F 0 "TP1" H 9458 1018 50  0000 L CNN
+F 1 "TestPoint" H 9458 927 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.5x1.5mm" H 9600 900 50  0001 C CNN
+F 3 "~" H 9600 900 50  0001 C CNN
+	1    9400 900 
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
