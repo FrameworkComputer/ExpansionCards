@@ -8,7 +8,10 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 ## Files
 
  - KiCad_templates - These are templates with the PCB outline and some basic components
-   to let you get started with a card design quickly.  You can copy the folders inside to
+   to let you get started with a card design quickly.  The Expansion_Card template
+   is designed to be used with the 3D printable enclosures in the Mechanical folder.
+   The Expansion_Card_Retrofit template is smaller and designed to fit into the existing
+   Expansion Card enclosures like the DP Expansion Card's.  You can copy the folders to
    the default template directory: https://docs.kicad.org/5.0/en/kicad/kicad.html#template_locations
  - Microcontroller - A reference project using a SAMD21 Microcontroller with some pin
    headers broken out.  **Note:** We've built and done basic validation on an older version
