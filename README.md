@@ -6,6 +6,9 @@ Expansion Cards, but there is an entire world of other interesting ways to exten
 capabilities of a notebook.  We're releasing CAD to make it easy for you to develop your
 own Expansion Cards.
 
+Check out the Expansion Card section of the Framework Community for card ideas, support,
+or just to show off what you're working on: https://community.frame.work/c/expansion-cards/85
+
 **Beta Release:** Note that these are early design releases, so you should build and test
 development versions before committing a design based on this CAD to mass production.
 
