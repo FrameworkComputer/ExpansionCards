@@ -15,8 +15,7 @@ Framework Marketplace, fill out the form here: https://forms.gle/uaP9kWxwcK5VZNu
 **Beta Release:** Note that these are early design releases, so you should build and test
 development versions before committing a design based on this CAD to mass production.
 
-![Press Assets - img12](https://user-images.githubusercontent.com/28994301/118583836-8ca4b700-b74a-11eb-88cc-005e0392a3e5.gif)
-
+![MicrocontrollerExpansionCard](https://user-images.githubusercontent.com/28994301/121473136-0cebc000-c977-11eb-8688-56af558bb5d3.gif)
 
 ## License
 
