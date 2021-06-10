@@ -7,7 +7,7 @@ capabilities of a notebook.  We're releasing CAD to make it easy for you to deve
 own Expansion Cards.
 
 Check out the Expansion Card section of the Framework Community for card ideas, support,
-or just to show off what you're working on: https://community.frame.work/c/expansion-cards/85
+or just to show off what you're working on: https://community.frame.work/c/expansion-cards/developer-program/90
 
 To apply for funding for prototype fabrication or to list your Expansion Card on the
 Framework Marketplace, fill out the form here: https://forms.gle/uaP9kWxwcK5VZNuA8
