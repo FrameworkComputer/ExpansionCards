@@ -28,12 +28,19 @@
 />
 
 
-The Framework Laptop's Expansion Card system lets you choose exactly the ports you want and which side you want them on.
+The **Framework Laptop**'s **Expansion Card** system <br>
+allows you to choose exactly what ports you want <br>
+and on what side they should be.
 
-We've built `USB-C`, `USB-A`, `HDMI`, `DP`, `MicroSD`, and `Storage Expansion` Cards, but there is an entire world of other interesting ways to extend the capabilities of a notebook.
+So far, we have built `USB-C` , `USB-A` , `HDMI` , `DP` , <br>
+`MicroSD` cards, as well as a `Storage Expansion` .
 
-We're releasing CAD to make it easy for you to develop your
-own Expansion Cards.
+However, there are so many more interesting and <br>
+useful ways to extend the capabilities of notebooks.
+
+We have released the **CAD** files to make it easier <br>
+for you to develop your
+own **Expansion Cards**.
 
 Check out the **[Expansion Card Section][Cards]** of the Framework Community for card ideas, support, or just to show off what you're working on.
 
@@ -45,7 +52,7 @@ To apply for funding for prototype fabrication or to list your Expansion Card on
 <!----------------------------------------------------------------------------->
 
 [Funding]: https://forms.gle/uaP9kWxwcK5VZNuA8
-[Cards]: https://community.frame.work/c/expansion-cards/developer-program/90
+[Cards]: https://community.frame.work/c/developer-program/expansion-card/90
 
 [Badge License]: https://licensebuttons.net/l/by/4.0/80x15.png
 [Badge Beta]: https://img.shields.io/badge/Beta_Release-yellow.svg?style=for-the-badge
