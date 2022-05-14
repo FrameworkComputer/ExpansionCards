@@ -1,5 +1,5 @@
 
-# Expansion Cards
+# Expansion Cards  [![Badge License]][License]
 
 Reference designs and documentation to create Expansion Cards for the Framework Laptop.
 The Framework Laptop's Expansion Card system lets you choose exactly the ports you want
@@ -8,7 +8,7 @@ Expansion Cards, but there is an entire world of other interesting ways to exten
 capabilities of a notebook.  We're releasing CAD to make it easy for you to develop your
 own Expansion Cards.
 
-Check out the **[Expansion Card Section][Cards] of the Framework Community for card ideas, support,
+Check out the **[Expansion Card Section][Cards]** of the Framework Community for card ideas, support,
 or just to show off what you're working on.
 
 To apply for funding for prototype fabrication or to list your Expansion Card on the
@@ -19,11 +19,6 @@ development versions before committing a design based on this CAD to mass produc
 
 ![Demonstration]
 
-## License
-
-Expansion Cards © 2021 by Framework Computer Inc is licensed under CC BY 4.0.
-To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
-
 
 <!----------------------------------------------------------------------------->
 
@@ -31,4 +26,5 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 [Funding]: https://forms.gle/uaP9kWxwcK5VZNuA8
 [Cards]: https://community.frame.work/c/expansion-cards/developer-program/90
 
+[Badge License]: https://licensebuttons.net/l/by/4.0/80x15.png
 [License]: LICENSE
