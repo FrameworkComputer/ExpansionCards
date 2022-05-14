@@ -24,6 +24,8 @@
 
 </div>
 
+<br>
+
 <img
     src = 'https://user-images.githubusercontent.com/28994301/121473136-0cebc000-c977-11eb-8688-56af558bb5d3.gif'
     title = 'Expansion Card Demonstration'
@@ -31,7 +33,6 @@
     align = right
 />
 
-<br>
 <br>
 
 The **Framework Laptop**'s **Expansion Card** system <br>
@@ -58,6 +59,8 @@ own **Expansion Cards**.
 <br>
 
 ---
+
+<br>
 
 ## Funding & Listing
 
