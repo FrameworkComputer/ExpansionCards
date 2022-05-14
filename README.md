@@ -57,9 +57,6 @@ own **Expansion Cards**.
 
 <br>
 <br>
-
----
-
 <br>
 
 ## Funding & Listing
