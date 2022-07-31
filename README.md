@@ -1,11 +1,19 @@
 
 # Expansion Cards  [![Badge License]][License]
 
-***Framework*** *Expansion Card **Reference Design** &* ***Documentation***
+***Framework's*** *Reference Design & Documentation.*
 
+<br>
 <br>
 
 <div align = center>
+
+[![Button PCB]][PCB]  
+[![Button Housing]][Housing]  
+[![Button Cards]][Cards] 
+
+<br>
+<br>
 
 ---
 
@@ -16,14 +24,9 @@
 
 ---
 
-[![Button PCB]][PCB]  
-[![Button Housing]][Housing]  
-[![Button Cards]][Cards] 
-
----
-
 </div>
 
+<br>
 <br>
 
 <img
@@ -65,23 +68,29 @@ Please fill out the **[Form]** if you want to:
 - Apply for funding of prototype fabrication
 - List your Expansion Card on the Framework Marketplace
 
+<br>
+
 
 <!----------------------------------------------------------------------------->
 
+[Cards]: https://community.frame.work/c/developer-program/expansion-card/90
 [Form]: https://forms.gle/uaP9kWxwcK5VZNuA8
 
-[Badge License]: https://licensebuttons.net/l/by/4.0/80x15.png
-[Badge Beta]: https://img.shields.io/badge/Beta_Release-yellow.svg?style=for-the-badge
-
+[Housing]: Mechanical/README.md
 [License]: LICENSE
+[PCB]: Electrical/README.md
+
+
+<!----------------------------------{ Badges }--------------------------------->
+
+[Badge License]: https://img.shields.io/badge/-BY-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
+[Badge Beta]: https://img.shields.io/badge/Beta_Release-yellow.svg?style=for-the-badge
 
 
 <!---------------------------------{ Buttons }--------------------------------->
 
-[Button Housing]: https://img.shields.io/badge/Housing-gray?style=for-the-badge
-[Button Cards]: https://img.shields.io/badge/Cards-4490dd?style=for-the-badge
-[Button PCB]: https://img.shields.io/badge/PCB-37a779?style=for-the-badge
+[Button Housing]: https://img.shields.io/badge/Housing-gray?style=for-the-badge&logoColor=white&logo=SemanticWeb
+[Button Cards]: https://img.shields.io/badge/Cards-4490dd?style=for-the-badge&logoColor=white&logo=ROS
+[Button PCB]: https://img.shields.io/badge/PCB-37a779?style=for-the-badge&logoColor=white&logo=ElasticStack
 
-[Housing]: Mechanical/README.md
-[Cards]: https://community.frame.work/c/developer-program/expansion-card/90
-[PCB]: Electrical/README.md
+
