@@ -1,15 +1,16 @@
 
-# Expansion Cards  [![Badge License]][License]
+# Expansion Cards   [![Badge License]][License]
 
-***Framework's*** *Reference Design & Documentation.*
+***[Framework]'s*** *Reference Design & Documentation.*
 
+<br>
 <br>
 <br>
 
 <div align = center>
 
-[![Button PCB]][PCB]  
-[![Button Housing]][Housing]  
+[![Button PCB]][PCB]   
+[![Button Housing]][Housing]   
 [![Button Cards]][Cards] 
 
 <br>
@@ -73,11 +74,12 @@ Please fill out the **[Form]** if you want to:
 
 <!----------------------------------------------------------------------------->
 
+[Framework]: https://frame.work/
 [Cards]: https://community.frame.work/c/developer-program/expansion-card/90
 [Form]: https://forms.gle/uaP9kWxwcK5VZNuA8
 
 [Housing]: Mechanical/README.md
-[License]: LICENSE
+[License]: LICENSE 'This repository is under the Creative Commons 4.0 BY license'
 [PCB]: Electrical/README.md
 
 
