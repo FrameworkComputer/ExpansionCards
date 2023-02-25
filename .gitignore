@@ -13,7 +13,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-
+sym-lib-table
 # Netlist files (exported from Eeschema)
 *.net
 
@@ -24,3 +24,16 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+#Backup directory
+ExpansionCards/Electrical/KiCad_templates/Expansion_Card/Expansion_Card-backups
+Electrical/KiCad_templates/Expansion_Card/Expansion_Card-backups/Expansion_Card-2023-02-11_194024.zip
+Electrical/KiCad_templates/Expansion_Card/Expansion_Card-backups/Expansion_Card-2023-02-11_204842.zip
+Electrical/KiCad_templates/Expansion_Card/Expansion_Card-backups/Expansion_Card-2023-02-15_163917.zip
+.gitignore
+Electrical/KiCad_templates/Expansion_Card/Expansion_Card-backups/Expansion_Card-2023-02-24_175121.zip
+Electrical/KiCad_templates/Expansion_Card/Expansion_Card-rescue.dcm
+Electrical/KiCad_templates/Expansion_Card/Expansion_Card-rescue.lib
+Electrical/KiCad_templates/Expansion_Card/Expansion_Card.kicad_prl
+Electrical/KiCad_templates/Expansion_Card/Expansion_Card.kicad_pro
+Electrical/KiCad_templates/Expansion_Card/Expansion_Card.kicad_sch
