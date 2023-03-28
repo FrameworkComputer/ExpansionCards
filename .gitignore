@@ -13,7 +13,11 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-
+Electrical/KiCad_templates/Expansion_Card/sym-lib-table
+*.zip
+*-rescue.lib
+*-rescue.dcm
+*.kicad_prl
 # Netlist files (exported from Eeschema)
 *.net
 
@@ -24,3 +28,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+#Backup directory
