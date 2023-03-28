@@ -14,9 +14,7 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 Electrical/KiCad_templates/Expansion_Card/sym-lib-table
-*.kicad_sch
 *.zip
-*.kicad_pro
 *-rescue.lib
 *-rescue.dcm
 *.kicad_prl
