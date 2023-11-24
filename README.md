@@ -9,10 +9,7 @@ own Expansion Cards.
 Check out the Expansion Card section of the Framework Community for card ideas, support,
 or just to show off what you're working on: https://community.frame.work/c/expansion-cards/developer-program/90
 
-To apply for funding for prototype fabrication or to list your Expansion Card on the
-Framework Marketplace, fill out the form here: https://forms.gle/uaP9kWxwcK5VZNuA8
-
-**Beta Release:** Note that these are early design releases, so you should build and test
+Note that you should build and test
 development versions before committing a design based on this CAD to mass production.
 
 ![MicrocontrollerExpansionCard](https://user-images.githubusercontent.com/28994301/121473136-0cebc000-c977-11eb-8688-56af558bb5d3.gif)
