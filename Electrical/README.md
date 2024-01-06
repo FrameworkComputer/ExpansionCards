@@ -14,7 +14,8 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
    Expansion Card enclosures like the DP Expansion Card's.  You can copy the folders to
    the default template directory: https://docs.kicad.org/5.0/en/kicad/kicad.html#template_locations
  - Microcontroller - A reference project using a SAMD21 Microcontroller with some pin
-   headers broken out.  **Note:** We've built and done basic validation on an older version
+   headers broken out.  We've found Preci-Dip 8FM-78-0010-02-146 headers to fit well within the
+   size constraints.  **Note:** We've built and done basic validation on an older version
    of this design, but the version currently in this repository is untested.
    ![image](https://user-images.githubusercontent.com/28994301/118582864-f2903f00-b748-11eb-9ee0-a20ade45479a.png)
 
